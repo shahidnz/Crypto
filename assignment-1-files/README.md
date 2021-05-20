@@ -1,5 +1,6 @@
 # Assignment -1 output
 
+```
 Plaintext:
 S h a h i d   S i d d i q u i
 Plaintext ASCII Codes:
@@ -25,3 +26,4 @@ Ciphertext:
 '   ♦   ☺ T : ♦ ☺ ¶ § ∟ →
 
 D:\Shahid\Unitec-Courses\6701-Cryptography\crypto\Week3>
+```
